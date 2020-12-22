@@ -1,4 +1,4 @@
-# CS385-Assignments
+# C++-Algorithms-Assignments
  This repo contains several c++ assigments from my algorithms course (CS385)
 
 The makefile, "makefile", is compatible with all of the files in this repo.
